@@ -1,4 +1,4 @@
-package com.kishore.kafkaspringboot;
+package kafka.consumer;
 
 import java.util.HashMap;
 import java.util.Map;
